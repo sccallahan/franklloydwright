@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# other files
+test.R
+palettes.txt
+howto.txt
+fallingwater.jpg
+taliesin.jpg
+wright_murasaki_fix.jpg
+wright_quiet_green_fix.jpg
